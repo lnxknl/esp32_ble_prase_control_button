@@ -1,0 +1,854 @@
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lv_conf_改名后拷贝到.pio依赖目录lvgl目录同级.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/env_support/cmsis-pack/lv_conf_cmsis.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/env_support/rt-thread/lv_rt_thread_port.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/env_support/rt-thread/lv_rt_thread_conf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/env_support/rt-thread/squareline/ui/lv_ui_entry.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/lv_example_others.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/imgfont/lv_example_imgfont_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/imgfont/lv_example_imgfont.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/snapshot/lv_example_snapshot_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/snapshot/lv_example_snapshot.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/monkey/lv_example_monkey_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/monkey/lv_example_monkey_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/monkey/lv_example_monkey_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/monkey/lv_example_monkey.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/ime/lv_example_ime_pinyin_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/ime/lv_example_ime_pinyin.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/ime/lv_example_ime_pinyin_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/fragment/lv_example_fragment.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/fragment/lv_example_fragment_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/fragment/lv_example_fragment_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/msg/lv_example_msg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/msg/lv_example_msg_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/msg/lv_example_msg_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/msg/lv_example_msg_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/gridnav/lv_example_gridnav.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/gridnav/lv_example_gridnav_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/gridnav/lv_example_gridnav_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/gridnav/lv_example_gridnav_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/others/gridnav/lv_example_gridnav_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/scroll/lv_example_scroll_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/anim/lv_example_anim_timeline_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/anim/lv_example_anim_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/anim/lv_example_anim.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/anim/lv_example_anim_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/anim/lv_example_anim_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/grid/lv_example_grid_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/flex/lv_example_flex_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/layouts/lv_example_layout.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_indev_template.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_indev_template.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_fs_template.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_disp_template.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_fs_template.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/porting/lv_port_disp_template.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/freetype/lv_example_freetype.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/freetype/lv_example_freetype_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/sjpg/lv_example_sjpg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/sjpg/lv_example_sjpg_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/lv_example_libs.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/qrcode/lv_example_qrcode_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/qrcode/lv_example_qrcode.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/rlottie/lv_example_rlottie_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/rlottie/lv_example_rlottie.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/rlottie/lv_example_rlottie_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/rlottie/lv_example_rlottie_approve.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/gif/img_bulb_gif.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/gif/lv_example_gif_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/gif/lv_example_gif.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/ffmpeg/lv_example_ffmpeg_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/png/lv_example_png_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/png/lv_example_png.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/png/img_wink_png.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/bmp/lv_example_bmp_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/libs/bmp/lv_example_bmp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/lv_examples.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/switch/lv_example_switch_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btn/lv_example_btn_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btn/lv_example_btn_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btn/lv_example_btn_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/slider/lv_example_slider_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/slider/lv_example_slider_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/slider/lv_example_slider_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/line/lv_example_line_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/list/lv_example_list_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/list/lv_example_list_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/spinbox/lv_example_spinbox_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/win/lv_example_win_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/img/lv_example_img_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/img/lv_example_img_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/img/lv_example_img_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/img/lv_example_img_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/lv_example_widgets.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/animimg/lv_example_animimg_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/table/lv_example_table_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/table/lv_example_table_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/label/lv_example_label_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/label/lv_example_label_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/label/lv_example_label_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/label/lv_example_label_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/label/lv_example_label_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/keyboard/lv_example_keyboard_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/tabview/lv_example_tabview_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/tabview/lv_example_tabview_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/led/lv_example_led_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/roller/lv_example_roller_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/roller/lv_example_roller_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/roller/lv_example_roller_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/menu/lv_example_menu_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/menu/lv_example_menu_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/menu/lv_example_menu_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/menu/lv_example_menu_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/menu/lv_example_menu_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/calendar/lv_example_calendar_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/arc/lv_example_arc_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/arc/lv_example_arc_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/canvas/lv_example_canvas_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/canvas/lv_example_canvas_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/dropdown/lv_example_dropdown_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/dropdown/lv_example_dropdown_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/dropdown/lv_example_dropdown_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/colorwheel/lv_example_colorwheel_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/textarea/lv_example_textarea_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/textarea/lv_example_textarea_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/textarea/lv_example_textarea_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/bar/lv_example_bar_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/obj/lv_example_obj_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/obj/lv_example_obj_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/msgbox/lv_example_msgbox_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/span/lv_example_span_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/spinner/lv_example_spinner_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/tileview/lv_example_tileview_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/meter/lv_example_meter_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/meter/lv_example_meter_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/meter/lv_example_meter_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/meter/lv_example_meter_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/checkbox/lv_example_checkbox_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/checkbox/lv_example_checkbox_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_8.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_9.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_7.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/chart/lv_example_chart_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/widgets/imgbtn/lv_example_imgbtn_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/animimg003.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_cogwheel_argb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/animimg001.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/imgbtn_left.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/emoji/img_emoji_F617.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/imgbtn_mid.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_caret_down.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_cogwheel_rgb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_hand.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_star.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_cogwheel_alpha16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/imgbtn_right.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_skew_strip.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/animimg002.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_cogwheel_chroma_keyed.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/assets/img_cogwheel_indexed16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_10.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_14.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_8.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_13.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_11.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_12.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_7.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_6.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_15.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_5.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_9.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/styles/lv_example_style_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/get_started/lv_example_get_started.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/get_started/lv_example_get_started_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/get_started/lv_example_get_started_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/get_started/lv_example_get_started_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/event/lv_example_event_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/event/lv_example_event_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/event/lv_example_event_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/event/lv_example_event_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/examples/event/lv_example_event.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music_main.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music_main.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music_list.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music_list.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/spectrum_2.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_logo.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_list_border.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/spectrum_3.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/spectrum_1.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/music/lv_demo_music.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/lv_demos.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/widgets/lv_demo_widgets.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/widgets/lv_demo_widgets.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/widgets/assets/img_clothes.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/widgets/assets/img_lvgl_logo.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/stress/lv_demo_stress.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/stress/lv_demo_stress.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/lv_demo_benchmark.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/demos/benchmark/lv_demo_benchmark.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/lv_conf_template.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/lvgl.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_indev.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_disp.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_tick.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_indev.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_tick.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/hal/lv_hal_disp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/imgfont/lv_imgfont.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/imgfont/lv_imgfont.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/snapshot/lv_snapshot.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/snapshot/lv_snapshot.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/monkey/lv_monkey.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/monkey/lv_monkey.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/ime/lv_ime_pinyin.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/ime/lv_ime_pinyin.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/fragment/lv_fragment_manager.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/fragment/lv_fragment.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/fragment/lv_fragment.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/lv_others.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/msg/lv_msg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/msg/lv_msg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/gridnav/lv_gridnav.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/others/gridnav/lv_gridnav.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/lv_themes.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/mono/lv_theme_mono.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/mono/lv_theme_mono.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/basic/lv_theme_basic.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/basic/lv_theme_basic.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/default/lv_theme_default.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/themes/default/lv_theme_default.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/lv_extra.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/layouts/lv_layouts.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/layouts/grid/lv_grid.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/layouts/grid/lv_grid.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/layouts/flex/lv_flex.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/layouts/flex/lv_flex.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/freetype/lv_freetype.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/freetype/lv_freetype.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/sjpg/tjpgd.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/sjpg/tjpgdcnf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/sjpg/lv_sjpg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/sjpg/lv_sjpg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/sjpg/tjpgd.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/fsdrv/lv_fsdrv.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/qrcode/qrcodegen.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/qrcode/lv_qrcode.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/qrcode/lv_qrcode.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/qrcode/qrcodegen.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/rlottie/lv_rlottie.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/rlottie/lv_rlottie.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/gif/gifdec.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/gif/gifdec.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/gif/lv_gif.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/gif/lv_gif.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/png/lv_png.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/png/lv_png.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/png/lodepng.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/png/lodepng.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/bmp/lv_bmp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/bmp/lv_bmp.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/libs/lv_libs.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/list/lv_list.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/list/lv_list.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/spinbox/lv_spinbox.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/spinbox/lv_spinbox.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/win/lv_win.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/win/lv_win.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/animimg/lv_animimg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/animimg/lv_animimg.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/keyboard/lv_keyboard.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/keyboard/lv_keyboard.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/tabview/lv_tabview.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/tabview/lv_tabview.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/led/lv_led.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/led/lv_led.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/menu/lv_menu.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/menu/lv_menu.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/msgbox/lv_msgbox.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/msgbox/lv_msgbox.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/span/lv_span.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/span/lv_span.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/spinner/lv_spinner.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/spinner/lv_spinner.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/tileview/lv_tileview.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/tileview/lv_tileview.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/meter/lv_meter.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/meter/lv_meter.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/lv_widgets.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/chart/lv_chart.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/chart/lv_chart.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/extra/lv_extra.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/lv_conf_kconfig.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_class.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_theme.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_style_gen.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_class.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_scroll.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_refr.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_event.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_pos.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_indev.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_tree.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_group.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_scroll.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_theme.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_draw.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_indev.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_style_gen.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_disp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_pos.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_indev_scroll.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_draw.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_group.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_indev_scroll.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_refr.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_disp.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_event.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_style.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_tree.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/core/lv_obj_style.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_arc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_img.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_gradient.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_gradient.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_polygon.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_blend.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_transform.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_layer.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_rect.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_dither.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_dither.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_line.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_blend.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_arc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_img.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sw/lv_draw_sw_letter.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_line.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_mask.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_img.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_label.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_transform.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_layer.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_line.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_cache.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_rect.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_decoder.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_rect.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_label.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_decoder.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_cache.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/arm2d/lv_gpu_arm2d.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/arm2d/lv_gpu_arm2d.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_buf.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_img_buf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_arc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_triangle.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_triangle.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_gpu_nxp_vglite.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_gpu_nxp_vglite.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/lv_gpu_nxp.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/nxp/lv_gpu_nxp.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_img.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_rect.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_rect.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_composite.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_bg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_img.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_layer.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_layer.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_utils.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_arc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_priv.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_utils.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_label.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_line.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_mask.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_mask.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/sdl/lv_draw_sdl_composite.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_mask.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_layer.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/draw/lv_draw_transform.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_utils.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_anim_timeline.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_async.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_anim.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_tlsf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_style.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_math.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_gc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_txt.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_txt.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_bidi.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_area.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_style_gen.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_async.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_bidi.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_lru.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_area.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_printf.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_anim_timeline.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_lru.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_templ.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_types.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_fs.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_txt_ap.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_mem.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_utils.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_style_gen.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_ll.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_timer.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_log.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_assert.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_color.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_printf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_gc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_log.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_fs.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_tlsf.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_ll.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_style.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_txt_ap.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_anim.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_timer.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_color.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_templ.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_mem.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/misc/lv_math.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/lvgl.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_canvas.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_bar.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_slider.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_textarea.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_slider.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_objx_templ.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_dropdown.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_canvas.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_img.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_img.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_btnmatrix.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_checkbox.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_objx_templ.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_arc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_switch.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_line.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_arc.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_btnmatrix.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_label.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_line.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_switch.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_table.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_textarea.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_btn.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_btn.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_bar.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_roller.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_checkbox.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_table.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_label.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_roller.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/widgets/lv_dropdown.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/lv_api_map.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_38.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_26.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_symbol_def.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_44.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_loader.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_20.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_14.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_fmt_txt.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_46.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_10.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_36.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_42.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_12_subpx.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_24.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_loader.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_fmt_txt.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_12.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_28_compressed.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_34.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_40.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_8.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_32.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_18.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_unscii_16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_22.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_28.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_30.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_montserrat_48.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_simsun_16_cjk.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/font/lv_font_unscii_8.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lvgl/src/lv_conf_internal.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/epd_demo/lange.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/epd_demo/Grayscale_IL0398.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/epd_demo/Grayscale_IL0398.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Core2/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Core2/batman.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Core2/ncc1701.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickCPlus/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickCPlus/batman.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickCPlus/ncc1701.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickC/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickC/batman.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5StickC/ncc1701.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Stack/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Stack/batman.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Stack/ncc1701.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Fire/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Fire/batman.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/M5Stack/M5Fire/ncc1701.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/examples/adafruit_gfx_demo/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/src/JPEGDEC.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/src/JPEGDEC.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/test_images/thumb_test.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/test_images/tulips.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/test_images/st_peters.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/test_images/sciopero.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/JPEGDEC/linux/main.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/lv_conf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_demo_benchmark.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_chroma_keyed.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_argb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_indexed16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_alpha16.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_12_compr_az.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_16_compr_az.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_28_compr_az.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_rgb.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_demo_benchmark.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/lv_demo_widgets.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/touch.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_clothes.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_demo_widgets_avatar.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/lv_demo_widgets.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_lvgl_logo.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ArduinoVNC/touch.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ArduinoVNC/keyboard.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ArduinoVNC/VNC_GFX.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeSansBold10pt7b.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeMono8pt7b.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeSerifBoldItalic12pt7b.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/WiFiPhotoFrame/JpegFunc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/MultipleDisplay/MultipleAnimatedGIF/GifClass.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ImgViewer/ImgViewerMjpeg/MjpegClass.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ImgViewer/ImgViewerAnimatedGIF/GifClass.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ImgViewer/ImgViewerPROGMEM/Arduino_UNO_Rev3_Ok.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/BmpClass.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/examples/ImgViewer/ImgViewerJpeg/JpegFunc.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_TFT_18bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_DataBus.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_GFX_Library.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_TFT_18bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_TFT.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_G.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/gfxfont.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_GFX_Library.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_GFX.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8Q.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8Q.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32RGBPanel.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32LCD8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_HWSPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_SWPAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32LCD16.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_mbedSPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_SWSPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32LCD8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32LCD16.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_mbedSPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32RGBPanel.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_SWPAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_HWSPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_SWSPI.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_G.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_GFX.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7701_RGBPanel.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_RPi_DPI_RGBPanel.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8352C.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1351.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9503V_RGBPanel.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9A01.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7735.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7735.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9106.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7796.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_JBT6K71.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8357B.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT35310.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1283A.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8357B.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9486.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9342.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9A01.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9331.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8347C.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1331.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9225.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_JBT6K71.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8357A.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8352C.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8347C.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9341.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9106.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1283A.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7789.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9806.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT35510.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT39125.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7796.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8357A.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8347D.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9341.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SEPS525.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7789.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT35510.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT39125.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1331.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9503V_RGBPanel.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_R61529.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_NT35310.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SSD1351.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9342.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9331.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9806.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_HX8347D.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9107.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9225.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_RPi_DPI_RGBPanel.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ST7701_RGBPanel.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_GC9107.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_R61529.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_SEPS525.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/display/Arduino_ILI9486.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_DataBus.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/Arduino_TFT.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/font/glcdfont.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/font/u8g2_font_unifont_t_chinese4.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/font/u8g2_font_unifont_h_utf8.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/font/u8g2_font_unifont_t_chinese.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/GFX Library for Arduino/src/font/u8g2_font_unifont_t_cjk.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/OneButton/src/OneButton.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/OneButton/src/OneButton.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/RTCLib/src/RTClib.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/lib/RTCLib/src/RTClib.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_star_mask_liyue.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_horoscope04.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/NvsTool.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_hand_s.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_hand_m.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_star_bg_98.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_star_mask.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_sunrise.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/clock.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_daytime.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_star_bg.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_sunset.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/boardconf.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/clock.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_hand_h.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_arc_mask.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_moonrise.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_horoscope03.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_horoscope06.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/main.cpp
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/img_horoscope05.c
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/MjpegClass.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/file_io.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/BLE.h
+/home/tong/05_files/top_github_aws/eda/genshin_godeye_esp32/src/JpegFunc.h
