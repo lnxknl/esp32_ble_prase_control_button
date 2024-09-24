@@ -45,7 +45,7 @@ TaskHandle_t Task_Control;
 #endif
 
 const String yan = "bcfhlsy";                         //神之眼文件名序列，如要自己定义请改这里和上面的FILE_COUNT
-OneButton btn = OneButton(BTN_PIN, true, true); //初始化按键
+OneButton btn = OneButton(BTN_PIN, true, true); //初始化按键// @NOTE 
 Genshin_Clock myclock;
 Arduino_DataBus *bus = new Arduino_HWSPI(TFT_DC, TFT_CS, TFT_SCK, TFT_MOSI, TFT_MISO);
 //初始化不同的屏幕
@@ -265,7 +265,7 @@ void ble_proc()
         //判断是否是数字
         if (isNumber(ts))
         {
-            myclock.setDateTime(ts.toInt());
+            myclock.setDateTime(ts.toInt());// @NOTE 
         }
         else
         {
@@ -279,7 +279,7 @@ void ble_proc()
         if (isNumber(ts))
         {
             currIndex[0] = ts.toInt();
-            if (currIndex[0] >= EYES_FILE_COUNT)
+            if (currIndex[0] >= EYES_FILE_COUNT)// @NOTE 
                 currIndex[0] = 0;
             isBreak = true;
             ble_sendmsg();
@@ -291,7 +291,7 @@ void ble_proc()
     }
     else if (ble_rcv_data[5] == 'p')
     {
-        //切换神之眼播放模式，参数是0 1 2
+        //切换神之眼播放模式，参数是0 1 2// @NOTE 
         String ts = ble_rcv_data.substring(7, 8);
         if (isNumber(ts))
         {
@@ -415,7 +415,7 @@ void ble_loop()// @NOTE
 {
     if (deviceConnected && ble_rcv_data.length() > 0)
     {
-        ble_proc();
+        ble_proc();// @NOTE 
         ble_rcv_data = "";
     }
     if (!deviceConnected && oldDeviceConnected) // 没有新连接时
